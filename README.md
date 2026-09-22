@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ashish Pise
+# Ashish Pisey
 
 **iOS craft → agent harnesses & independent design tooling**
 
