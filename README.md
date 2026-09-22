@@ -6,7 +6,7 @@
 
 Mumbai · building systems that keep coding agents honest
 
-[Portfolio](https://github.com/ashishpatill/portfolio) · [GitHub](https://github.com/ashishpatill) · [X](https://x.com/inqusit)
+[Portfolio](https://ashish-portfolio-a29b.onrender.com) · [GitHub](https://github.com/ashishpatill) · [X](https://x.com/inqusit)
 
 </div>
 
@@ -28,7 +28,7 @@ I care about measurable done: exact bytes on disk, independent UI proof, thin al
 | **[Harness from scratch](https://github.com/ashishpatill/harness-from-scratch)** | Tiny Node 22 teaching harness: Allow → write → exact-byte proof. Zero third-party packages. |
 | **[grok-kit](https://github.com/ashishpatill/grok-kit)** | Personal Cursor + Grok Build harness kit. Slash skills, cost routing, verify loops, consent-gated install. |
 | **[Nagrik Saathi](https://github.com/ashishpatill/nagrik-saathi)** | Safe public-document copilot for government notices. Explains and checklists. Never automates portals or collects credentials. |
-| **[Portfolio](https://github.com/ashishpatill/portfolio)** | Personal site (Next.js). Hosted on Render when deploy lands. |
+| **[Portfolio](https://ashish-portfolio-a29b.onrender.com)** | Personal site (Next.js). Live on Render. Source: [ashishpatill/portfolio](https://github.com/ashishpatill/portfolio). |
 
 ---
 
